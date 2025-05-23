@@ -1,0 +1,10 @@
+{
+  "btc": 67234,
+  "eth": 3456,
+  "block": 847361,
+  "mempool": 12345,
+  "hashrate": 487.65,
+  "difficulty": 713918273,
+  "tx_volume": 123456789,
+  "block_time": 9.7
+}
